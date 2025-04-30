@@ -1,24 +1,49 @@
-# Muhammad Waheed - AI Engineer Portfolio
+# Muhammad Waheed - Python Developer Portfolio
 
-Welcome to my portfolio! I'm an AI engineer specializing in **Modern Python** for building intelligent systems. This portfolio showcases my projects, skills, and learning journey in the AI space.
+Welcome to the portfolio of Muhammad Waheed, a passionate Python developer with expertise in building scalable and intelligent systems. This portfolio highlights my skills, projects, and learning journey, showcasing my journey as a Python developer.
 
-## Live Demo
-Check out the live version of my portfolio:  
-[Live Demo](https://waheed-portfolio.streamlit.app/)
+## 🚀 Live Demo
+Check out my live portfolio: [Muhammad Waheed Portfolio](https://waheed-portfolio.streamlit.app/)
 
-## Skills
-- **Languages:** Python, TypeScript
-- **Tools:** Streamlit, FastAPI, Pandas, NumPy, asyncio, Docker, GitHub
+## 💡 Skills
+- **Programming Languages:** Python, TypeScript
+- **Tools & Libraries:** 
+  - Python (with type hints & mypy)
+  - Pandas & NumPy
+  - Streamlit
+  - FastAPI
+  - asyncio (async/await)
+  - Git & GitHub
+  - Docker
+  - Google Colab
+- **Soft Skills:** Problem Solving, Debugging, Clear Communication, Collaboration, Adaptability, Time Management, Critical Thinking, Continuous Learning
 
-## Projects
-Explore some of my projects:  
-- **StreamSweep** – Data cleaner & visualizer ([GitHub](https://github.com/muhammadwaheedairi/Data-Sweeper-App.git))
-- **Unit Converter Pro** – Conversion tool ([GitHub](https://github.com/muhammadwaheedairi/Unit-Converter.git))
-- **Secure Data Encryption System** – Encryption app ([GitHub](https://github.com/muhammadwaheedairi/Secure-Data-Encryption-System.git))
+## 🚀 Projects
+- **Streamlit Web Apps:**
+  - [StreamSweep](https://streamsweep.streamlit.app/) - Data cleaning and visualization tool
+  - [Unit Converter Pro](https://unitconverterpro.streamlit.app/) - Unit conversion tool
+  - [Secure Data Encryption System](https://datalockr.streamlit.app/) - Secure encryption app
+  - [BMI Calculator](https://check-my-bmi.streamlit.app/) - BMI calculation app
 
-## Contact
-- 📧 **Email:** [muhammadwaheedairi@gmail.com](mailto:muhammadwaheedairi@gmail.com)
-- 💻 **GitHub:** [GitHub Profile](https://github.com/Muhammadwaheedairi)
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammadwaheedairi/)
+- **CLI Tool:**
+  - [Personal Library Manager](https://pypi.org/project/personal-library-manager/) - Manage book collections from the command line
 
-Feel free to connect or reach out for collaborations!
+- **Practice Games (Google Colab):**
+  - [Mad Libs](https://colab.research.google.com/drive/1msz-mYt7oQ9dynzqHplM3VrcgDJd2Y3P?usp=drive_link)
+  - [Guess Number (Computer)](https://colab.research.google.com/drive/1mmk3Fh9Y103tII9WETJHAkKY3Twm9sEQ?usp=drive_link)
+  - [Guess Number (User)](https://colab.research.google.com/drive/1EE5ahLlDcuHh5nMVBbDJ5ereBskpVYtp?usp=drive_link)
+  - [Rock/Paper/Scissors](https://colab.research.google.com/drive/1oBFjzVQYcruLTwoEkGZmlSpvZ0p7kdpv?usp=drive_link)
+  - [Hangman](https://colab.research.google.com/drive/1q6qgXeEEsE52UlXv5TX4DLIYeNjYgNah?usp=drive_link)
+  - [Countdown Timer](https://colab.research.google.com/drive/1W5yOdz9lvTHTUTmGc4QAguQJMQg_ll4P?usp=drive_link)
+  - [Password Generator](https://colab.research.google.com/drive/1nPSY-kbE_l--aZaXEgV-_TfTdvXs5kPn?usp=drive_link)
+
+## 📘 Learning Journey
+- **Why Python:** Its simplicity and rich ecosystem made Python my language of choice for building intelligent systems.
+- **Challenges:** Embracing static typing, async patterns, and solid OOP design.
+- **Driven By:** Turning ideas into real tools and continuous learning.
+- **Next Up:** Deepening my skills in machine learning, agentic AI, and backend APIs.
+
+## 📬 Contact
+- **Email:** [muhammadwaheedairi@gmail.com](mailto:muhammadwaheedairi@gmail.com)
+- **GitHub:** [MuhammadWaheedAir](https://github.com/Muhammadwaheedairi)
+- **LinkedIn:** [Muhammad Waheed](https://www.linkedin.com/in/muhammadwaheedairi/)
