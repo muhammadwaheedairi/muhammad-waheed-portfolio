@@ -11,10 +11,8 @@ Check out my live portfolio: [Muhammad Waheed Portfolio](https://waheed-portfoli
   - Python (with type hints & mypy)
   - Pandas & NumPy
   - Streamlit
-  - FastAPI
   - asyncio (async/await)
   - Git & GitHub
-  - Docker
   - Google Colab
 - **Soft Skills:** Problem Solving, Debugging, Clear Communication, Collaboration, Adaptability, Time Management, Critical Thinking, Continuous Learning
 
