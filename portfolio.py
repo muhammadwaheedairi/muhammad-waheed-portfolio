@@ -46,17 +46,18 @@ if page == "Home":
         <div style="background-color: white; padding: 2rem; border-radius: 1.5rem; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); max-width: 800px; margin: auto;">
             <h1 style="text-align: center; font-size: 2.5rem; color: #2c3e50;">👨‍💻 Muhammad Waheed</h1>
             <p style="text-align: center; font-size: 1.25rem; color: #7f8c8d; margin-top: -10px;">
-                Accelerating AI innovation with modern, type-safe Python.
+              Crafting scalable and intelligent systems with clean Python code.
             </p>
             <hr style="margin: 2rem 0; border-top: 1px solid #ecf0f1;" />
             <p style="font-size: 1.1rem; line-height: 1.7; text-align: justify;">
-                I’m an <strong>AI engineer</strong> in the Certified Agentic & Robotic AI Engineer program, focused on building robust intelligent systems using <strong>Modern Python</strong> — including <code>static typing</code>, <code>OOP</code>, and <code>async</code> features.
-                <br/><br/>
-                I leverage AI-assisted coding to build scalable, production-ready web apps and I’m passionate about pioneering solutions in the emerging field of <strong>Agentic AI</strong>.
-                <br/><br/>
-                This portfolio highlights my projects, skills, and learning journey as I continuously evolve in the world of intelligent systems.
-            </p>
-        </div>
+              Welcome to the portfolio of <strong>Muhammad Waheed</strong>, a passionate <strong>Python developer</strong> with a focus on building scalable and intelligent systems using <code>clean code</code>, <code>OOP</code> principles, and <code>modern Python</code> practices.
+            <br/><br/>
+              I specialize in writing efficient, maintainable code and leverage popular libraries and tools to bring ideas to life—from web apps to CLI tools and data-driven solutions.
+            <br/><br/>
+              This portfolio highlights my skills, projects, and learning journey, showcasing my commitment to professional growth as a modern Python developer.
+</p>
+
+    
     """, unsafe_allow_html=True)
 
 # Skills Page
